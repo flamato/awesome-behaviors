@@ -1,3 +1,4 @@
+# Awesome (Product Management) Behaviors
 
 The following list is collected from my library of product management best practices, tips, how-tos, and case studies. The first release is restricted to behavioral topics; future releases will expand this doc to include more technical topics.
 
@@ -10,7 +11,7 @@ Brian Piercy
 bjpcjp@gmail.com
 @brianpiercy
 
-**attention**
+## attention
 
 [How to Seize Attention - from a Sideshow Barker](https://betterhumans.coach.me/how-to-seize-attention-with-the-secrets-of-a-sideshow-barker-6788fde4fd75)
 
@@ -41,7 +42,7 @@ bjpcjp@gmail.com
 19. misuse a tech tool
 20. care for something
 
-**attitude**
+## attitude
 
 [How to Build your Attitude Muscle](https://addicted2success.com/success-advice/9-ways-to-strengthen-your-good-attitude-muscle/)
 
@@ -49,11 +50,11 @@ bjpcjp@gmail.com
 
 [The Three Types of Specialists Needed for Any Revolution](http://kottke.org/13/05/the-three-types-of-specialist)
 
-**beliefs**
+## beliefs
 
 [How Belief Works - Some Theories](http://changingminds.org/explanations/theories/a_belief.htm)
 
-**bias**
+## bias
 
 [How to avoid cognitive biases when you get paid to think](https://invertedpassion.com/hacks-to-avoid-cognitive-biases/)
 
@@ -73,11 +74,15 @@ bjpcjp@gmail.com
 
 [Biases and Blunders](https://www.farnamstreetblog.com/2015/12/biases-and-blunders/)
 
-**bragging**
+## bragging
 
 [The Best Article on Bragging - Ever](https://www.lesspenguiny.com/articles/best-article-on-bragging)
 
-**charisma**
+## bystander effect
+
+[Why "Open Secrets" exist in Organizations](https://hbr.org/2019/01/why-open-secrets-exist-in-organizations)
+
+## charisma
 
 [12 Influence & Charisma Tactics](http://www.whiteboardmag.com/12-tactic-to-become-more-leaderlike-influential-and-charismatic/)
 
@@ -91,7 +96,7 @@ bjpcjp@gmail.com
 
 [8 Body Language Tricks that are Hard to Master, but will Pay Off Forever](http://www.businessinsider.com/body-language-tricks-2017-6)
 
-**charity | chivalry**
+## charity | chivalry
 
 [The Principle of Charity](https://effectiviology.com/principle-of-charity/)
 
@@ -99,15 +104,15 @@ bjpcjp@gmail.com
 
 [How to Be Polite](https://medium.com/message/how-to-be-polite-9bf1e69e888c#.2utmc7hnv)
 
-**choices**
+## choices
 
 [The Paralyzing Effect of Choice](https://www.supermoney.com/2015/10/paralyzing-effect-of-choice/)
 
-**collections**
+## collections
 
 [What Makes People Collect Things?](https://www.gsb.stanford.edu/insights/itamar-simonson-what-makes-people-collect-things)
 
-**coolness, desire, envy**
+## coolness, desire, envy
 
 [The Science of Snobbery](https://www.theatlantic.com/business/archive/2013/09/the-science-of-snobbery-how-were-duped-into-thinking-fancy-things-are-better/279571/)
 
@@ -123,25 +128,25 @@ bjpcjp@gmail.com
 
 [The Psychology of a Fanboy: Why You Keep Buying the Same Stuff](http://lifehacker.com/the-psychology-of-a-fanboy-why-you-keep-buying-the-sam-1300451596)
 
-**commitments**
+## commitments
 
 [Precommitment: Burning Bridges as a Strategic Decision](https://effectiviology.com/precommitment/)
 
-**concepts**
+## concepts
 
-[https://conceptually.org/](https://conceptually.org/)
+[conceptually.org](https://conceptually.org/)
 
-**(self) confidence**
+## (self) confidence
 
 [Everybody Experiences Imposter Syndrome](https://medium.com/the-mission/everybody-experiences-imposter-syndrome-strong-leaders-use-it-to-their-advantage-1f13345c286b#.sluruio65)
 
 [Self-Appointed Geniuses](https://priceonomics.com/the-psychology-of-the-self-appointed-genius/)
 
-**controversy**
+## controversy
 
 [A Guide to Curating Controversial Content](http://unbounce.com/content-marketing/creating-controversial-content/)
 
-**creativity**
+## creativity
 
 [Gamestorming](http://gamestorming.com/)
 
@@ -149,7 +154,7 @@ bjpcjp@gmail.com
 
 [The Psychology of Limitations](https://blog.bufferapp.com/7-examples-of-how-creative-constraints-can-lead-to-amazing-work)
 
-**culture**
+## culture
 
 [Good & Bad Organizations](https://www.farnamstreetblog.com/2015/01/ben-horowitz-good-and-bad-organizations/)
 
@@ -159,7 +164,7 @@ bjpcjp@gmail.com
 
 [Building a Culture](https://medium.com/@dunn/creating-culture-21a117803f80#.w3k35lg7b)
 
-**delegation**
+## delegation
 
 [Identify Leaders by Giving People Assignments](https://www.feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html)
 
@@ -171,23 +176,23 @@ bjpcjp@gmail.com
 
 [Be a Minimally Invasive Manager](https://hbr.org/2013/10/be-a-minimally-invasive-manager)
 
-**failure**
+## failure
 
 [Missing the Point about Failure](http://www.spikelab.org/blog/missing-the-point-about-failure.html)
 
 [Scott Adams: Fail at Everything](https://www.farnamstreetblog.com/2013/12/scott-adams-fail-at-everything/)
 
-**familiarity**
+## familiarity
 
 [The Science of Familiarity](https://conversionxl.com/science-of-familiarity)
 
-**fascination**
+## fascination
 
 [What are Personality "Archetypes"?](https://www.howtofascinate.com/about-the-personality-test/personality-archetypes)
 
 [The Seven Triggers of Fascination](http://www.howtofascinate.com/about-the-personality-test/personality-archetypeshttp://coolerinsights.com/2012/07/the-7-triggers-of-fascination/)
 
-**feedback**
+## feedback
 
 [The Essential Guide to Difficult Conversations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 
@@ -195,7 +200,7 @@ bjpcjp@gmail.com
 
 [The Key to Giving & Receiving Negative Feedback](https://hbr.org/2015/08/the-key-to-giving-and-receiving-negative-feedback)
 
-**leadership**
+## leadership
 
 [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit?authuser=0#heading=h.pdmqf3646hgt)
 
@@ -239,7 +244,7 @@ bjpcjp@gmail.com
 
 [Real Leaders Don't Do Focus Groups](https://hbr.org/2010/02/no-reference-points.html)
 
-**loyalty & trust**
+## loyalty & trust
 
 [Loyalists vs. Mercenaries](http://avc.com/2015/06/loyalists-vs-mercenaries/)
 
@@ -251,7 +256,7 @@ bjpcjp@gmail.com
 
 [How Darknet Sellers Build Trust](http://nautil.us/issue/55/trust/how-darknet-sellers-build-trust)
 
-**getting things done**
+## getting things done
 
 [8760 Hours: A Framework](https://alexvermeer.com/8760hours/)
 
@@ -265,7 +270,7 @@ bjpcjp@gmail.com
 
 [Do Something Small. Every Day.](https://medium.com/@austinkleon/something-small-every-day-c6ce326612c8#.nea3ga7oo)
 
-**grit, hustle**
+## grit, hustle
 
 [A Dozen Lessons from Anthony Bourdain](https://25iq.com/2017/10/07/a-dozen-lessons-about-business-from-anthony-bourdain/)
 
@@ -275,7 +280,7 @@ bjpcjp@gmail.com
 
 [The Hustler's MBA](http://tynan.com/hustle)
 
-**habits**
+## habits
 
 [Transform Your Habits, v2 (pdf)](https://jamesclear.com/wp-content/uploads/2013/09/habits-v2.pdf)
 
@@ -293,7 +298,7 @@ bjpcjp@gmail.com
 
 [The Toothbrush Test](https://thenextweb.com/business/2017/03/08/two-companies-hooked-customers-rarely-used-products/#.tnw_Rl0BTYK3)
 
-**humility**
+## humility
 
 [Accidental Leadership](https://medium.com/@sschillace/accidental-leadership-1083f5d390cc#.5w7lqlxy4)
 
@@ -301,7 +306,7 @@ bjpcjp@gmail.com
 
 [The Manager Who Kept a Six-Year Diary of her Mistakes](http://blogs.wsj.com/atwork/2013/03/29/the-manager-who-kept-a-six-year-diary-of-her-mistakes/)
 
-**influence**
+## influence
 
 [Knowing When to Shut Up](https://hbr.org/2014/01/cultural-coaching-knowing-when-to-shut-up)
 
@@ -329,7 +334,7 @@ bjpcjp@gmail.com
 
 [23 Psychological Life Hacks to Gain an Advantage](http://georg-grey.blogspot.mx/2014/05/23-psychological-life-hacks-to-get.html)
 
-**interviews**
+## interviews
 
 [Find a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 
@@ -337,17 +342,17 @@ bjpcjp@gmail.com
 
 [Meta-analysis: the Best Interview Questions to Spot Ideal Employees](http://www.williambharding.com/blog/hiring/meta-analysis-best-interview-questions-to-spot-ideal-employees/)
 
-**likeability**
+## likeability
 
 [Getting People to Like You](http://www.bakadesuyo.com/2014/10/how-to-get-people-to-like-you/)
 
-**learning**
+## learning
 
 [Learning - Faster & Better](https://www.scotthyoung.com/blog/2011/01/11/learn-faster-and-better/)
 
 [21 Learning Methods (a little fuzzy for me, but...)](https://medium.com/the-mission/21-ways-to-reach-your-dreams-within-12-months-ba724caf6e27#.jph8py77j)
 
-**mental models**
+## mental models
 
 [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://www.fs.blog/mental-models/)
 
@@ -371,11 +376,11 @@ bjpcjp@gmail.com
 12. Disruption
 13. Triangles of success
 
-**mentors**
+## mentors
 
 [Mentors are the Secret Weapon of Successful Startups](https://techcrunch.com/2015/03/22/mentors-are-the-secret-weapons-of-successful-startups/)
 
-**motivations**
+## motivations
 
 [The Elephant In the Brain (Book Outline)](http://elephantinthebrain.com/outline.html)
 
@@ -391,7 +396,7 @@ bjpcjp@gmail.com
 
 [Managing the Invisibles](https://hbr.org/2014/05/managing-the-invisibles)
 
-**negotiation**
+## negotiation
 
 [Stalin at Yalta: Tips from the Master](https://abe-winter.github.io/2018/12/20/stalin.html)
 
@@ -415,7 +420,7 @@ bjpcjp@gmail.com
 
 [The Best Way to Win an Argument](https://mindhacks.com/2014/05/26/the-best-way-to-win-an-argument/)
 
-**persuasion**
+## persuasion
 
 [42 Personality Archetypes - and How to Sell to Them](http://cdn2.hubspot.net/hub/126289/file-2505256976-pdf/TCS/How_to_sell_to_the_42_different_archetypes.pdf)
 
@@ -461,7 +466,7 @@ bjpcjp@gmail.com
 
 [Product Leadership Rules to Live By From My Experience at Pandora](http://firstround.com/review/product-leadership-rules-to-live-by-from-my-experience-at-pandora/)
 
-**power | respect**
+## power | respect
 
 [The 48 Laws of Power - Summary](http://the48lawsofpower.com/summary)
 
@@ -469,25 +474,25 @@ bjpcjp@gmail.com
 
 [The Best Management Memo - Ever](http://designobserver.com/feature/best-management-memo/37923/)
 
-**pressure**
+## pressure
 
 [How to Focus & Make the Best Move When There Are No Good Moves](https://www.farnamstreetblog.com/2014/04/the-ability-to-focus-and-make-the-best-move-when-there-are-no-good-moves)
 
 [What a Football Coach Taught me About Product Management](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156#.xyxasqtai)
 
-**prospect theory**
+## prospect theory
 
 [What is Prospect Theory?](http://www.investopedia.com/terms/p/prospecttheory.asp)
 
-**promotions**
+## promotions
 
 [How to Get Promoted on Merit, Not Hubris](https://betterhumans.coach.me/how-to-get-promoted-based-on-merit-rather-than-hubris-e22ccca7b20a#.gk6dw4f2g)
 
-**rhyming**
+## rhyming
 
 [Why Rhyming Makes Your Message More Persuasive](https://effectiviology.com/rhyme-as-reason/)
 
-**scarcity**
+## scarcity
 
 [How Artificial Scarcity can Boost Desire](http://www.growhack.com/2013/10/how-artificial-scarcity-can-boost-desire/)
 
@@ -495,13 +500,13 @@ bjpcjp@gmail.com
 
 [Pliny the Elder: a Case Study of Scarcity Marketing](http://www.marketplace.org/2014/09/18/business/pliny-elder-case-study-scarcity-marketing)
 
-**signaling | communicating**
+## signaling | communicating
 
 [Mixed Signals: Why People Misunderstand Each Other](https://www.theatlantic.com/health/archive/2015/04/mixed-signals-why-people-misunderstand-each-other/391053/?utm_source=SFFB)
 
 [Carl Braun on Communicating Like a Grown-Up](https://www.farnamstreetblog.com/2016/03/carl-braun-communicating/)
 
-**social proof**
+## social proof
 
 [The Most Important Selling Factor](https://www.practicalecommerce.com/social-proof-important-factor-selling)
 
@@ -511,26 +516,26 @@ bjpcjp@gmail.com
 
 [Social Proof Factors](https://blog.kissmetrics.com/social-proof-factors-2/)
 
-**(public) speaking**
+## (public) speaking
 
 [Pro Tip: Block Your Talk](http://eleganthack.com/block-your-talk/)
 
 [Public speaking for Introverts](https://www.riskology.co/introvert-speak/)
 
-**spinning & subterfuge**
+## spinning & subterfuge
 
 [The Master of Spin](https://www.cjr.org/special_report/the-master-of-spin.php/)
 
 [How Asian dating sites cracked the code](https://qz.com/167879/how-asian-dating-sites-cracked-your-biggest-complaint-everyone-lies-online/)
 
-**stoicism**
+## stoicism
 
 [How to Be a Stoic](http://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
 
-**surprise**
+## surprise
 
 [YouTube Toy Unboxing - is a Thing](https://www.vox.com/the-goods/2019/3/22/18275786/youtube-video-unboxing-toy-industry-lol-surprise-dolls)
 
-**symbolism**
+## symbolism
 
 [Symbols that Can't Last Forever](https://99percentinvisible.org/article/beyond-biohazard-danger-symbols-cant-last-forever/)
