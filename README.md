@@ -1,9 +1,5 @@
 # Awesome (Product Management) Behaviors
 
-The following list is collected from my library of product management best practices, tips, how-tos, and case studies.
+I've been gathering behavior-related resources for a couple of years - mostly due to my background in product management. I've found that understanding human behavior is *way* more important than the latest marketing tool or framework.
 
-Some links (only a few) include a list of bullet points from the article. I expect this feature to be included in the future.
-
-Behavioral topics have considerable overlap. I expect to revise these categories based on your feedback.
-
-Please see my [main repository](https://github.com/bjpcjp/awesome-product-management) for additional material. Thank you!
+Visit the behaviors page on my GitHub page for the latest: [https://github.bjpcjp/io/behaviors]. Thank you!
